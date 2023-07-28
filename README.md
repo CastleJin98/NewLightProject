@@ -22,15 +22,16 @@
 - 팀원3 : 김에스더 - 커뮤니티, 공지사항 댓글, 수정, 삭제
 
 
-
+## 주제 선정 이유 
+---
+창작물을 공유하는데 있어 각자 다른 플랫폼을 이용함으로써 불편함을 겪을 수 있기 때문에 한 사이트 안에서 편리하게 공유할 수 있는 플랫폼을 만들고자 하였다.
 
 ---
 ## ⚙️ 개발 환경
-- Back-End : `Java`
-- Front-End : `HTML`, `CSS`, `JavaScript`
-- FrameWork : `Ajax`, `MyBatis` 
-- Database : `Oracle`
-- Devops: `GitHub`
+- 개발 도구 : Eclips
+- 개발 언어 : JAVA , JAVAScript , HTML , CSS
+- DataBase : MySQL
+- Devops: GitHub
 
 
 
